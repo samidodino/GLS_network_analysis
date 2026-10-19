@@ -1,5 +1,5 @@
 # ============================================================
-#  07 - ROBUSTEZ DE LAS REDES FRENTE A EXTINCIONES
+#  05 - ROBUSTEZ DE LAS REDES FRENTE A EXTINCIONES
 #  - Convierte las redes de igraph a objetos compatibles con network
 #  - Simula extinciones aleatorias y por criterios dirigidos
 #  - Calcula in-degree, out-degree, betweenness e índice combinado
