@@ -2,7 +2,8 @@ Scripts
 
 Run in this order, in a single R session:
 
-Script	Content
+Script	Content:
+
 01_redes_premolt.R: Pre-molt networks
 
 02_redes_invierno.R:	Winter networks; nodes and edges 
