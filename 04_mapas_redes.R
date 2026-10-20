@@ -27,7 +27,7 @@ options(timeout = 600)
 # ------------------------------------------------------------
 #  Mapa base (ruta: adaptar)
 # ------------------------------------------------------------
-f_mapa_base <- "C:/Users/User/Desktop/Isoscapes projectos/Lu Riccialdelli/paper isoscapes/Isoscapes/Mapa_base/mapa_base.shp"
+f_mapa_base <- "C:/Users/User/Desktop/.../mapa_base.shp"
 mapa_base <- st_read(f_mapa_base)
 
 # ------------------------------------------------------------
